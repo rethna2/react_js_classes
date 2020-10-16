@@ -1,0 +1,32 @@
+body {
+  background-color: #bbbbbb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.item {
+  width: 300px;
+  border: 1px solid blue;
+  background-color: white;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+.prod_name {
+  font-size: 1.5rem;
+  padding: 5px;
+}
+
+.prod_desc {
+  font-style: italic;
+  padding: 5px;
+}
+
+.prod_details {
+  padding: 5px;
+}
